@@ -1,0 +1,6 @@
+---
+title: My First Post!
+---
+Weeee! My first blog post in a very very long time!
+A little bit excited to use Hakyll tbh... actually, I'm very excited to use Hakyll!
+
